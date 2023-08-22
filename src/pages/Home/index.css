@@ -1,18 +1,11 @@
-.welcome{
-    width: 50%;
-    border: 1px solid #000;
-    margin: 10px auto;
-    display: flex;
-    justify-content: center;
-  }
-  
-  .App-link {
+.App-link {
     display: inline-block;
     width: 50%;
     margin: auto;
     position: absolute;
     top: 50%;
     left: 50%;
+    transform: translateX(-50px);
     color: #61dafb;
   }
   
